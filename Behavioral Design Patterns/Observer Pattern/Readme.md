@@ -1,0 +1,1 @@
+Problem statement - Need to implement notify me feature, where a user can click notifyMe button on multiple products, and when that product is being made available by admin/seller, the user should get the notification for it. There can be multiple user and multiple product, and each user can click on NotifyMe for multiple product.
