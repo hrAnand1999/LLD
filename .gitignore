@@ -1,0 +1,9 @@
+package-lock.json
+node_modules/
+package.json
+.vscode/
+LICENSE
+script.js
+practice.py
+__pycache__
+__init__.py

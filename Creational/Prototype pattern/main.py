@@ -27,7 +27,8 @@ class Car(Prototype):
         return copy.deepcopy(existingObj)
 
     def clone(self):
-        return self.copyCar(self)
+        # return self.copyCar(self)
+        return copy.deepcopy(self)
     
     def setName(self, name):
         self.name = name
